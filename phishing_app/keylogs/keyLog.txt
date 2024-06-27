@@ -1,0 +1,61 @@
+2024-06-27 14:20:06,230: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 14:20:06,230: [33mPress CTRL+C to quit[0m
+2024-06-27 14:20:06,234:  * Restarting with stat
+2024-06-27 14:20:06,492:  * Debugger is active!
+2024-06-27 14:20:06,500:  * Debugger PIN: 496-848-338
+2024-06-27 14:20:38,445: 127.0.0.1 - - [27/Jun/2024 14:20:38] "GET / HTTP/1.1" 200 -
+2024-06-27 14:20:38,491: 127.0.0.1 - - [27/Jun/2024 14:20:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-27 14:21:11,574: 127.0.0.1 - - [27/Jun/2024 14:21:11] "GET / HTTP/1.1" 200 -
+2024-06-27 14:23:39,528:  * Detected change in 'c:\\Users\\Ed\\Downloads\\phishing_app\\app.py', reloading
+2024-06-27 14:23:39,550:  * Restarting with stat
+2024-06-27 14:23:39,792:  * Debugger is active!
+2024-06-27 14:23:39,799:  * Debugger PIN: 496-848-338
+2024-06-27 14:24:46,302: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 14:24:46,302: [33mPress CTRL+C to quit[0m
+2024-06-27 14:24:46,305:  * Restarting with stat
+2024-06-27 14:24:46,552:  * Debugger is active!
+2024-06-27 14:24:46,560:  * Debugger PIN: 496-848-338
+2024-06-27 14:24:57,656: 127.0.0.1 - - [27/Jun/2024 14:24:57] "GET / HTTP/1.1" 200 -
+2024-06-27 14:25:02,147: 127.0.0.1 - - [27/Jun/2024 14:25:02] "GET / HTTP/1.1" 200 -
+2024-06-27 14:25:27,730:  * Detected change in 'c:\\Users\\Ed\\Downloads\\phishing_app\\app.py', reloading
+2024-06-27 14:25:27,756:  * Restarting with stat
+2024-06-27 14:25:28,007:  * Debugger is active!
+2024-06-27 14:25:28,014:  * Debugger PIN: 496-848-338
+2024-06-27 14:25:28,319:  * Detected change in 'C:\\Users\\Ed\\Downloads\\phishing_app\\app.py', reloading
+2024-06-27 14:25:28,344:  * Restarting with stat
+2024-06-27 14:25:28,605:  * Debugger is active!
+2024-06-27 14:25:28,613:  * Debugger PIN: 496-848-338
+2024-06-27 14:28:16,122: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 14:28:16,122: [33mPress CTRL+C to quit[0m
+2024-06-27 14:28:16,126:  * Restarting with stat
+2024-06-27 14:28:16,358:  * Debugger is active!
+2024-06-27 14:28:16,365:  * Debugger PIN: 496-848-338
+2024-06-27 14:28:30,185: 127.0.0.1 - - [27/Jun/2024 14:28:30] "GET / HTTP/1.1" 200 -
+2024-06-27 14:28:39,892: 127.0.0.1 - - [27/Jun/2024 14:28:39] "GET / HTTP/1.1" 200 -
+2024-06-27 14:30:04,858: 127.0.0.1 - - [27/Jun/2024 14:30:04] "GET / HTTP/1.1" 200 -
+2024-06-27 14:37:04,390: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 14:37:04,390: [33mPress CTRL+C to quit[0m
+2024-06-27 14:37:04,394:  * Restarting with stat
+2024-06-27 14:37:04,631:  * Debugger is active!
+2024-06-27 14:37:04,638:  * Debugger PIN: 496-848-338
+2024-06-27 14:37:14,644: 127.0.0.1 - - [27/Jun/2024 14:37:14] "GET / HTTP/1.1" 200 -
+2024-06-27 14:37:19,415: 127.0.0.1 - - [27/Jun/2024 14:37:19] "GET / HTTP/1.1" 200 -
+2024-06-27 14:37:22,991: 127.0.0.1 - - [27/Jun/2024 14:37:22] "GET / HTTP/1.1" 200 -
+2024-06-27 14:44:40,539: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-27 14:44:40,539: [33mPress CTRL+C to quit[0m
+2024-06-27 14:44:40,542:  * Restarting with stat
+2024-06-27 14:44:40,793:  * Debugger is active!
+2024-06-27 14:44:40,800:  * Debugger PIN: 496-848-338
+2024-06-27 14:44:58,143: 127.0.0.1 - - [27/Jun/2024 14:44:58] "GET / HTTP/1.1" 200 -
+2024-06-27 14:44:58,213: 127.0.0.1 - - [27/Jun/2024 14:44:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-27 14:45:09,227: Email: eduardo, Password: Silva
+2024-06-27 14:45:09,227: 127.0.0.1 - - [27/Jun/2024 14:45:09] "POST / HTTP/1.1" 200 -
+2024-06-27 14:46:19,936: 127.0.0.1 - - [27/Jun/2024 14:46:19] "GET / HTTP/1.1" 200 -
+2024-06-27 14:59:10,587: 127.0.0.1 - - [27/Jun/2024 14:59:10] "GET / HTTP/1.1" 200 -
+2024-06-27 14:59:26,945: Email: eduardo@yahoo.com, Password: 123456787
+2024-06-27 14:59:26,946: 127.0.0.1 - - [27/Jun/2024 14:59:26] "POST / HTTP/1.1" 200 -
